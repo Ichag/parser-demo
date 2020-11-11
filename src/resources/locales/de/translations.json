@@ -1,0 +1,11 @@
+{
+  "passwordReset": {
+    "passwordResetEmail": {
+      "emailSubject": "Passwort zurücksetzen",
+      "subTitle": "Passwort zurücksetzen",
+      "description": "Sie haben die Zurücksetzung Ihres Passworts angefirdert. Bitte klicken Sie aud den untenstehenden Link, um fortzufahren.",
+      "resetBtn": "Passwort zurücksetzen",
+      "hint": "Sollte Sie Ihr Passwort nicht zurücksetzen wollen, können Sie diese E-mail ignorieren."
+    }
+  }
+}
