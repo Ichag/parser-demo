@@ -77,9 +77,9 @@ const extractI18nKeys = () => {
             },
           ],
         },
-        output: `locales/$LOCALE/$NAMESPACE.json`,
+        output: `${dirs.locales}/$LOCALE/$NAMESPACE.json`,
       }),
-  ).pipe(dest(dirs.resources));
+  ).pipe(dest('./'));
 };
 
 function getEnvSettings() {

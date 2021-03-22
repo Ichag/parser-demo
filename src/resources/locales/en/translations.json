@@ -3,6 +3,7 @@
     "passwordResetEmail": {
       "emailSubject": "Password Reset",
       "subTitle": "Reset password",
+      "subTitle2": "",
       "description": "You have requested your password to be reset. Please click on the link below to continue.",
       "resetBtn": "Reset password",
       "hint": "If you do not want to reset your password, you can ignore this e-mail."
